@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+profile.enc
+*.vhd
+*.iso
+*.gguf
+*.tar.gz
+*.png
